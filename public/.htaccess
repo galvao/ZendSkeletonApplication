@@ -1,4 +1,4 @@
-SetEnv ZF2_PATH /var/www/ZF2TestApp/vendor/ZF2/library
+SetEnv ZF2_PATH /var/www/ZendSkeletonApplication/vendor/ZF2/library
 
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} -s [OR]
